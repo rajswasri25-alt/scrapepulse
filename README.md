@@ -127,4 +127,4 @@ Same domain + platform = same results every time. Different domains = different 
 
 ---
 
-Built by [Your Name] · Powered by Arketra Intelligence
+Built by Rajswa Srivastava · Powered by Arketra Intelligence
